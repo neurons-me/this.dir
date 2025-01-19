@@ -1,0 +1,23 @@
+{
+  "name": "this.dir",
+  "version": "1.0.1",
+  "description": "DataStructure for Directories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neurons-me/this.dir.git"
+  },
+  "keywords": [
+    "machine",
+    "learning"
+  ],
+  "author": "suiGn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neurons-me/this.dir/issues"
+  },
+  "homepage": "https://github.com/neurons-me/this.dir#readme"
+}
