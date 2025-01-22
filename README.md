@@ -17,11 +17,8 @@ DataStructuring Directories.
 If you are interested in collaborating or wish to share your insights, please feel free to reach out or contribute to the project.
 
 #### License & Policies
-
-- **License**: MIT License (see LICENSE for details).
-
+- **License**: MIT License.
 - **Learn more** at **https://docs.neurons.me**
-
   [Terms](https://docs.neurons.me/terms-and-conditions) | [Privacy](https://docs.neurons.me/privacy-policy)
 
   <img src="https://docs.neurons.me/neurons.me.webp" alt="neurons.me logo" width="123" height="123">
